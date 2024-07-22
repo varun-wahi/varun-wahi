@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LeafNotes<br><br>🌱 Sharing my coding journey, mainly consisting of Flutter, Java, and Python<br><br>👨‍💻 All of my App dev related projects are available at Portfolio<br><br>📫 How to reach me wahivarun02@gmail.com
+🔭 I’m currently working on LeafNotes<br><br>🌱 Sharing my coding journey, mainly consisting of Flutter, MEFN Stack, and Python (Machine Learning)<br><br>👨‍💻 All of my App dev related projects are available at Portfolio<br><br>📫 How to reach me wahivarun02@gmail.com
 
 
 ## 🌐 Socials:
@@ -12,8 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=varun-wahi&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=varun-wahi&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=varun-wahi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=varun-wahi&icon=0&color=0)](https://visitcount.itsvg.in)
