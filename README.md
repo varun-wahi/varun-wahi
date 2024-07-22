@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LeafNotes<br><br>🌱 Sharing my coding journey, mainly consisting of Flutter, Java, and Python<br><br>👨‍💻 All of my App dev related projects are available at Portfolio<br><br>📫 How to reach me wahivarun02@gmail.com<br><br>📄 Know about my experiences Twitter
+🔭 I’m currently working on LeafNotes<br><br>🌱 Sharing my coding journey, mainly consisting of Flutter, Java, and Python<br><br>👨‍💻 All of my App dev related projects are available at Portfolio<br><br>📫 How to reach me wahivarun02@gmail.com
 
 
 ## 🌐 Socials:
