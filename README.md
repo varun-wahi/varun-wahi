@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LeafNotes<br><br>🌱 Sharing my coding journey, mainly consisting of Flutter, Java, and Python<br><br>👨‍💻 All of my App dev related projects are available at https://third-cause-6a1.notion.site/Varun-Wahi-s-App-development-Portfolio-33f587e55daa4127acfd74b937c03f6c?pvs=25<br><br>📫 How to reach me wahivarun02@gmail.com<br><br>📄 Know about my experiences https://x.com/varunwahii
+🔭 I’m currently working on LeafNotes<br><br>🌱 Sharing my coding journey, mainly consisting of Flutter, Java, and Python<br><br>👨‍💻 All of my App dev related projects are available at ![Portfolio](https://third-cause-6a1.notion.site/Varun-Wahi-s-App-development-Portfolio-33f587e55daa4127acfd74b937c03f6c?pvs=25)<br><br>📫 How to reach me wahivarun02@gmail.com<br><br>📄 Know about my experiences [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/varunwahii)
 
 
 ## 🌐 Socials:
